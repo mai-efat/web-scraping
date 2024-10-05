@@ -1,5 +1,7 @@
 # web-scraping
+```
 This project demonstrates how to scrape the Facebook logo from the official Facebook website using Python. It utilizes the requests and BeautifulSoup libraries to fetch and parse the HTML content.
+```
 Prerequisites
 
 Python 3.x: 
