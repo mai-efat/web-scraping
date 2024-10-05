@@ -14,15 +14,21 @@ The package manager for Python should be installed. Check by running:
 
 pip --version
 
+pip install beautifulsoup4
+
+pip install requests
+
+
 Libraries:
 ```
 This project requires the following Python libraries:
 requests
 beautifulsoup4
+```
+```
 Usage
 Create a Python Script: Create a new Python file named web.py.
-Usage
-Create a Python Script: Create a new Python file named scrape_facebook_logo.py.
+
 Run the Script: Execute the script using Python:
 python3 web.py
 ```
