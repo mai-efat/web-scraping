@@ -11,8 +11,9 @@ pip:
 The package manager for Python should be installed. Check by running:
 
 pip --version
-
-Libraries: This project requires the following Python libraries:
+```
+Libraries:
+This project requires the following Python libraries:
 requests
 beautifulsoup4
 Usage
